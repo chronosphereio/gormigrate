@@ -33,8 +33,8 @@ import (
 	"log"
 
 	"gopkg.in/gormigrate.v1"
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/sqlite"
+	"github.com/chronosphereio/gorm"
+	_ "github.com/chronosphereio/gorm/dialects/sqlite"
 )
 
 func main() {

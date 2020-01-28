@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/jinzhu/gorm"
+	"github.com/chronosphereio/gorm"
 )
 
 const (
